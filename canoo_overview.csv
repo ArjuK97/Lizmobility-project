@@ -1,0 +1,114 @@
+Attribute,Value
+address1,19951 Mariner Avenue
+city,Torrance
+state,CA
+zip,90503
+country,United States
+phone,424 271 2144
+website,https://www.canoo.com
+industry,Auto Manufacturers
+industryKey,auto-manufacturers
+industryDisp,Auto Manufacturers
+sector,Consumer Cyclical
+sectorKey,consumer-cyclical
+sectorDisp,Consumer Cyclical
+longBusinessSummary,"Canoo Inc., a mobility technology company, designs, engineers, develops, and manufactures electric vehicles for commercial and consumer markets in the United States. The company offers lifestyle delivery vehicles, lifestyle vehicles, multi-purpose delivery vehicles, and pickups. It also provides multi-purpose platform architecture is a self-contained, fully functional rolling chassis that directly houses the critical components for operation of an EV. Canoo Inc. was founded in 2017 and is headquartered in Torrance, California."
+fullTimeEmployees,812
+companyOfficers,"[{'maxAge': 1, 'name': 'Mr. Anthony  Aquila', 'age': 58, 'title': 'Executive Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 500000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ramesh  Murthy', 'age': 44, 'title': 'Senior VP of Finance & Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sohel  Merchant', 'title': 'Founder & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hector  Ruiz', 'age': 42, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Agnes  Gomes-Koizumi', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kunal  Bhalla', 'title': 'Senior Vice President of Corporate Development, Capital Markets & Purchasing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Carter', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Kim', 'title': 'Chief Design Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]"
+auditRisk,10
+boardRisk,9
+compensationRisk,9
+shareHolderRightsRisk,7
+overallRisk,9
+governanceEpochDate,1706745600
+compensationAsOfEpochDate,1672444800
+maxAge,86400
+priceHint,4
+previousClose,0.1455
+open,0.145
+dayLow,0.1391
+dayHigh,0.149
+regularMarketPreviousClose,0.1455
+regularMarketOpen,0.145
+regularMarketDayLow,0.1391
+regularMarketDayHigh,0.149
+beta,1.299
+forwardPE,-0.35225
+volume,71713511
+regularMarketVolume,71713511
+averageVolume,54060895
+averageVolume10days,66196800
+averageDailyVolume10Day,66196800
+bid,0.1431
+ask,0.1435
+bidSize,3200
+askSize,4000
+marketCap,156933008
+fiftyTwoWeekLow,0.139
+fiftyTwoWeekHigh,0.9
+priceToSalesTrailing12Months,302.37573
+fiftyDayAverage,0.20538
+twoHundredDayAverage,0.415955
+currency,USD
+enterpriseValue,220032320
+floatShares,636329960
+sharesOutstanding,1113789952
+sharesShort,96236359
+sharesShortPriorMonth,108223193
+sharesShortPreviousMonthDate,1703808000
+dateShortInterest,1706659200
+sharesPercentSharesOut,0.093100004
+heldPercentInsiders,0.028870001
+heldPercentInstitutions,0.13426
+shortRatio,1.35
+shortPercentOfFloat,0.102
+impliedSharesOutstanding,1113789952
+bookValue,0.254
+priceToBook,0.5547244
+lastFiscalYearEnd,1672444800
+nextFiscalYearEnd,1703980800
+mostRecentQuarter,1696032000
+netIncomeToCommon,-353806016
+trailingEps,-0.72
+forwardEps,-0.4
+enterpriseToRevenue,423.954
+enterpriseToEbitda,-0.803
+52WeekChange,-0.83699423
+SandP52WeekChange,0.25222528
+exchange,NCM
+quoteType,EQUITY
+symbol,GOEV
+underlyingSymbol,GOEV
+shortName,Canoo Inc.
+longName,Canoo Inc.
+firstTradeDateEpochUtc,1555421400
+timeZoneFullName,America/New_York
+timeZoneShortName,EST
+uuid,d6f34a31-73d8-3413-bd7c-f8da5dafcfcf
+messageBoardId,finmb_684202944
+gmtOffSetMilliseconds,-18000000
+currentPrice,0.1409
+targetHighPrice,4.0
+targetLowPrice,0.25
+targetMeanPrice,1.88
+targetMedianPrice,1.63
+recommendationMean,1.8
+recommendationKey,buy
+numberOfAnalystOpinions,6
+totalCash,12294000
+totalCashPerShare,0.017
+ebitda,-273868000
+totalDebt,129990000
+quickRatio,0.066
+currentRatio,0.175
+totalRevenue,519000
+debtToEquity,78.472
+revenuePerShare,0.001
+returnOnAssets,-0.36644
+returnOnEquity,-1.7981501
+freeCashflow,-200645632
+operatingCashflow,-262047008
+grossMargins,-0.73987997
+operatingMargins,-93.96724
+financialCurrency,USD
+trailingPegRatio,
